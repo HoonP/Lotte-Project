@@ -55,5 +55,5 @@ tensorflow 2.x 버전대는 호환되지 않습니다.
 
 ## 4. Object detection 결과
 
-![](1.png) ![](2.png)
+![](1.png) ![](2.png)![](3.png) ![](4.png)![](5.png) ![](6.png)![](7.png)
 

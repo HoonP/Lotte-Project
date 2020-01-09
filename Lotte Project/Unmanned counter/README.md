@@ -53,4 +53,6 @@ tensorflow 2.x 버전대는 호환되지 않습니다.
 웹캠을 사용하시려면 `Unmanned counter/obj/showVideo.py`의 41번 라인을 참고하세요.
 
 
+## 4. Object detection 결과
+
 

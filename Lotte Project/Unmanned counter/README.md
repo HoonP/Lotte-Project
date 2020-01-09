@@ -4,10 +4,6 @@
 
 ## 1. Abstract
 
-[시연영상[YouTube]](https://youtu.be/XbMtUq8GAPM) "자막에 영상에 대한 설명을 넣었습니다."
-
----
-
 > #### 사물인식과 얼굴인식 딥러닝 모델을 이용한 무인 계산대 프로젝트입니다.
 > **Object detection** 모델을 이용하여 계산대에 올려진 상품들을 자동으로 인식한 후, 
 > **Face recognition** 모델을 이용하여 구매자를 인식하여 
@@ -45,7 +41,7 @@ tensorflow 2.x 버전대는 호환되지 않습니다.
 
 ### 2) 파일 복사
 
-오른쪽 링크에서 압축파일을 다운로드합니다. [[Link]](https://drive.google.com/file/d/1cNmUbdONFoG3fmHxGyhcN5Fw7sR92c4g/view?usp=sharing)
+오른쪽 링크에서 압축파일을 다운로드합니다. [[Link]](https://drive.google.com/open?id=1ryNuuyUaHvAMyRLqloeKMBOzaCg8WJ3v)
 
 `Facenet` 폴더, `checkpoint ` 폴더, `yolov3_coco.pb`를 `Unmanned counter` 폴더에 복사해주세요.
 
@@ -56,5 +52,5 @@ tensorflow 2.x 버전대는 호환되지 않습니다.
 초기 설정으로 테스트 영상으로 모델이 작동합니다.
 웹캠을 사용하시려면 `Unmanned counter/obj/showVideo.py`의 41번 라인을 참고하세요.
 
-기타 궁금한 점이나 문의사항이 있으시다면 koo9water@gmail.com로 연락주세요.
+
 
